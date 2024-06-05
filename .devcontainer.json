@@ -1,7 +1,7 @@
 {
     "containerEnv": {
         "INTEGRATION_NAME": "alarmdotcom",
-        "LIBRARY_GIT_URL": "https://github.com/pyalarmdotcom/pyalarmdotcomajax.git",
+        "LIBRARY_GIT_URL": "https://github.com/collinsleewyatt/pyalarmdotcomajax.git",
         "LIBRARY_NAME": "pyalarmdotcomajax",
         "WORKSPACE_DIRECTORY": "/workspaces/alarmdotcom"
     },
